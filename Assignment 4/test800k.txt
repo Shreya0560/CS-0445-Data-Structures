@@ -1,0 +1,379 @@
+
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 3
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.33020653 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 3
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.16694017 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 3
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.20939003 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 3
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.0096651 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 3
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.02933946 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 3
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.07247748 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 3
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.21711682 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 3
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.05316302 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 3
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.07293079 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 15
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.31077714 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 15
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.15452459 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 15
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.17994147 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 15
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01091984 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 15
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.02337156 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 15
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.03621205 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 15
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.26530742 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 15
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.04477411 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 15
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.0422959 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 25
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.30774547 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 25
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.15752593 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 25
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.17409644 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 25
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01057389 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 25
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.02169629 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 25
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.03287951 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 25
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.23425733 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 25
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.04255419 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 25
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.03868136 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 50
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.32934269 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 50
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.17740021 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 50
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.17629478 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 50
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01308061 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 50
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.02199857 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 50
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.02976044 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 50
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.30856149 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 50
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.03965781 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 50
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.03847901 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 100
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.39719432 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 100
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.22742542 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 100
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.22348788 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 100
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.00651996 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 100
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01935594 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 100
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.0287782 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 100
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.45465943 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 100
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.0375157 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 100
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.03895733 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 500
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.81567688 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 500
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.63516689 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 500
+Data Setup: Random
+Number of trials: 10
+Average Time per trial: 0.62872717 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 500
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01094527 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 500
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.01771358 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 500
+Data Setup: Sorted
+Number of trials: 10
+Average Time per trial: 0.02222929 sec.
+
+Algorithm: MergeSort
+Array Size: 800000
+Base Case Less Than: 500
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 1.42911031 sec.
+
+Algorithm: Med-of-3 QuickSort
+Array Size: 800000
+Base Case Less Than: 500
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.03880527 sec.
+
+Algorithm: Random Pivot QuickSort
+Array Size: 800000
+Base Case Less Than: 500
+Data Setup: Reverse
+Number of trials: 10
+Average Time per trial: 0.03191593 sec.
